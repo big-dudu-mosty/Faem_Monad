@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import { useAccount } from 'wagmi'
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui'
 import { WalletConnection } from '@/components/web3/WalletConnection'
