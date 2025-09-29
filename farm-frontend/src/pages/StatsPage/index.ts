@@ -1,1 +1,1 @@
-export { StatsPage } from './StatsPage'
+export { StatsPageSimple as StatsPage } from './StatsPageSimple'
